@@ -70,6 +70,6 @@ If these are not provided, the advisor falls back to built-in responses.
 
 ## License
 
-This repository is ready for GitHub upload. If you want to publish it publicly, the MIT License is a good choice for open source projects.
+This repository is licensed under the MIT License. The `LICENSE` file in this repository grants permission for anyone to use, copy, modify, and distribute the software, including for commercial purposes, as long as the original copyright notice is preserved.
 
-> Add a `LICENSE` file if you want to make the licensing explicit for GitHub.
+The license is intentionally simple and is a good choice for public portfolio and project repositories.
